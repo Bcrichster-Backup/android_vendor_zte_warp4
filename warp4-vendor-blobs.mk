@@ -76,7 +76,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/warp4/proprietary/vendor/lib/libssd.so:system/vendor/lib/libssd.so \
     vendor/zte/warp4/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/zte/warp4/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/zte/warp4/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.vendor.msm8226.so \
+    vendor/zte/warp4/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
     vendor/zte/warp4/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/zte/warp4/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/zte/warp4/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
