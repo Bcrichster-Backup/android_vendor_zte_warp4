@@ -1,1 +1,1 @@
-# android_vendor_zte_warp4
+# vendor_zte_warp4
