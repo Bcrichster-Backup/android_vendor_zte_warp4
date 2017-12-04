@@ -189,8 +189,8 @@ PRODUCT_COPY_FILES += \
     vendor/zte/warp4/proprietary/bin/radish:system/bin/radish \
     vendor/zte/warp4/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/zte/warp4/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/zte/warp4/proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
-    vendor/zte/warp4/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
+#    vendor/zte/warp4/proprietary/app/qcrilmsgtunnel/qcrilmsgtunnel.apk:system/app/qcrilmsgtunnel/qcrilmsgtunnel.apk \
+#    vendor/zte/warp4/proprietary/app/shutdownlistener/shutdownlistener.apk:system/app/shutdownlistener/shutdownlistener.apk \
     vendor/zte/warp4/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/zte/warp4/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/zte/warp4/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
